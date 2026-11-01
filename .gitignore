@@ -1,0 +1,11 @@
+.obsidian/
+.trash/
+.DS_Store
+Thumbs.db
+*.zip
+*.sqlite
+*.db
+*.env
+*.key
+*.pem
+
